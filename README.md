@@ -24,7 +24,7 @@ Effortlessly convert between global currencies with live exchange rates and a mo
 
 ## 📸 Screenshots
 
-> ![App Screenshot](./assets/screenshot.png.png)
+> ![App Screenshot](./assets/Screenshot.png.png)
 
 > This screenshot shows the live currency conversion UI with React and Tailwind CSS.
 
