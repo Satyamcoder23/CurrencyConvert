@@ -1,17 +1,47 @@
-<<<<<<< HEAD
-# React + Vite
+# 💱 Currency Converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, responsive currency converter built with **React**, **Vite**, and **Tailwind CSS v4**.  
+Effortlessly convert between global currencies with live exchange rates and a modern UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [View it on GitHub Pages](https://satyamcoder23.github.io/CurrencyConvert/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# CurrencyConvert
-It converts currency from one to another with latest rate
->>>>>>> 80a54a608e3cb41f649cfdf3f276b2255959de54
+---
+
+## 🛠️ Tech Stack
+
+| Tool        | Purpose                          |
+|-------------|----------------------------------|
+| ⚛️ React     | UI rendering and component logic |
+| ⚡ Vite      | Fast bundling and dev server     |
+| 🎨 Tailwind v4 | Utility-first styling framework |
+| 🌐 API       | Real-time currency data          |
+
+---
+
+## 📸 Screenshots
+
+> *(Add screenshots here once deployed — use `![screenshot](url)`)*
+
+---
+
+## ✨ Features
+
+- 🔄 Real-time currency conversion
+- 🌍 Supports multiple currencies
+- 📱 Fully responsive design
+- ⚡ Lightning-fast performance with Vite
+- 🎯 Clean, intuitive UI with Tailwind v4
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/Satyamcoder23/CurrencyConvert.git
+cd CurrencyConvert
+npm install
+npm run dev
